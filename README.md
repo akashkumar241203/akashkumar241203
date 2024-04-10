@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">A passionate MERN Stack Developer 🚀</h3>
+<h3 align="center">A Passionate MERN Stack Developer 🚀</h3>
 
 - 📫 How to reach me **akashkumar.psl24@gmail.com**
 
