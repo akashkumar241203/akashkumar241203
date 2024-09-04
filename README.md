@@ -73,10 +73,12 @@
 
 </div><br>
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; gap: 0px;'>
+<details>	
+ <summary><b>GSSOC(24) Badge 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
 </div>
+</details>
 
 <hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=akashkumar24120&color=red" alt="Total Github views" />
